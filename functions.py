@@ -1,5 +1,6 @@
-"""In this file fumctions were defined"""
+"""In this file functions were defined"""
 
-def add(a,b):
+
+def add(a, b):
     """Add two numbers together"""
-    return a+b
+    return a + b
